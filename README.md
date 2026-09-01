@@ -24,42 +24,48 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 
-## COMMAND AND OUTPUT
-
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
+<img width="525" height="152" alt="Screenshot 2026-09-01 162044" src="https://github.com/user-attachments/assets/e2a762d1-c686-452b-ad74-3c5f88fb5567" />
 
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
+<img width="643" height="367" alt="Screenshot 2026-09-01 161042" src="https://github.com/user-attachments/assets/100c84ed-5324-475b-83a2-1058590869fc" />
 
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
+<img width="592" height="117" alt="Screenshot 2026-09-01 161109" src="https://github.com/user-attachments/assets/3821a908-e8b9-4fcd-aaec-a65e5eb64397" />
+
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
+<img width="533" height="128" alt="Screenshot 2026-09-01 161126" src="https://github.com/user-attachments/assets/8d2323fe-e959-4f3e-b271-b4e5253b8c4a" />
 
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
+<img width="495" height="227" alt="Screenshot 2026-09-01 161142" src="https://github.com/user-attachments/assets/10f26dc1-35cc-4b7e-9f9b-610bff52624b" />
 
 List out the file hello1.txt in the current directory
 
-## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
+<img width="537" height="778" alt="Screenshot 2026-09-01 161214" src="https://github.com/user-attachments/assets/7e7a6e1d-8bc8-4d2e-9f78-94ab0ef6fbf5" />
+
 
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
+<img width="517" height="202" alt="Screenshot 2026-09-01 161233" src="https://github.com/user-attachments/assets/42aa8987-b9de-4dc5-ae28-602ccb70cb95" />
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
