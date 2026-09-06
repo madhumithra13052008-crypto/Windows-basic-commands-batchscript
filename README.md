@@ -75,6 +75,7 @@ Create a batch file named on the desktop. The batch file need to have a variable
 
 
 ## OUTPUT
+<img width="608" height="287" alt="Screenshot 2026-09-06 180233" src="https://github.com/user-attachments/assets/7e175b32-0563-482a-a54b-62c7cf8da7b2" />
 
 
 
@@ -89,6 +90,7 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 ## OUTPUT
+<img width="480" height="242" alt="Screenshot 2026-09-06 180422" src="https://github.com/user-attachments/assets/24d88269-50c9-44b4-9892-6d7c6d426989" />
 
 
 
@@ -99,6 +101,7 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
+<img width="573" height="281" alt="Screenshot 2026-09-06 180805" src="https://github.com/user-attachments/assets/f02062bf-f065-4e4b-9bbb-4184dbc56bcc" />
 
 
 
@@ -112,6 +115,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
+<img width="490" height="460" alt="Screenshot 2026-09-06 181017" src="https://github.com/user-attachments/assets/c7601f9e-f4e5-403a-b636-379007d4bfbb" />
 
 
 Write a batch script that displays a simple menu with three options:
@@ -122,6 +126,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
+<img width="430" height="457" alt="Screenshot 2026-09-06 181130" src="https://github.com/user-attachments/assets/46f7ecc5-08ee-4286-99a1-ab2acff7b3e0" />
 
 
 
